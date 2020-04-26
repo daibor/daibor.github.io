@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>废话胶囊</title>
-    <link>localhost/</link>
+    <link>https://nonsense.fun/</link>
     <description>Recent content on 废话胶囊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt; · &lt;a href=&#34;https://daibor.com target=&#34;_blank&#34;&gt;daibor&lt;/a&gt;&#34;</copyright>
     
-	<atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nonsense.fun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>localhost/about/</link>
+      <link>https://nonsense.fun/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost/about/</guid>
+      <guid>https://nonsense.fun/about/</guid>
       <description>关于 这是一个基于 LeanCloud 搭建的没有评论、点赞、阅读量干扰的说话空间。
 *使用者应当在符合法律规定且不伤害他人的框架内表达，并为个人言论负责。
 对抗  平台严格的审查机制； 商业化产品基于流量的社交激励功能干扰（赞、评、转）； 中文互联网世界里部分用户和言论对「表达」的干扰；  鼓励  珍惜每次表达欲，忽略流量价值、他人的赞美或批评等一切与表达无关的因素，自在表达、专注表达； 通过表达推动思考，进而进行更有价值的表达；  </description>
@@ -24,10 +24,10 @@
     
     <item>
       <title></title>
-      <link>localhost/guide/</link>
+      <link>https://nonsense.fun/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost/guide/</guid>
+      <guid>https://nonsense.fun/guide/</guid>
       <description>一些作品  本人的「b言b语」 Xu Lu 的「废话胶囊」 Vio 的「生活碎片」 熊某人的BBtime 蹲坑沉思 不吐不快 狂人日记 力言堂 木木木木木的「b言b语」 etc…  感谢 Jimlee2002 为 Android 平台制作的 Tasker 脚本
 使用 你需要在 LeanCloud 后台创建一个名为 content 的 Class ，并在其中创建一个名为 content 的列。将 AppID 、AppKey 编辑入 index.html 注释提示处。然后将该文件上传至例如 github.io 之类 Web 服务器。
 详细配置过程请参考少数派文章《保卫表达：用后端 BaaS 快速搭建专属无点赞评论版微博——b言b语》
